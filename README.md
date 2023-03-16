@@ -3,3 +3,5 @@ Online appendix for a study of low-code development platforms in the manufacturi
 
 ## Authors
 - [Bernhard Schenkenfelder](https://github.com/bernland)
+- [Christian Salomon]()
+- [Georg Buchgeher]()
