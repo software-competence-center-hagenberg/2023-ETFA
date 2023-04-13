@@ -1,4 +1,4 @@
-# 2023 ETFA
+# ETFA 2023
 Online appendix for a study on the potential of low-code development in the manufacturing industry
 
 ## Authors
