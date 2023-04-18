@@ -3,5 +3,5 @@ Online appendix for a study on the potential of low-code development in the manu
 
 ## Authors
 - [Bernhard Schenkenfelder](https://github.com/bernland)
-- [Christian Salomon]
-- [Georg Buchgeher]
+- Christian Salomon
+- Georg Buchgeher
